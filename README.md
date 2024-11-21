@@ -1,0 +1,1 @@
+(Some features are currently missing. This is my first try at making my own personalized website and some elements when it comes to creating a solid website are still a work in progress with learning it.)
